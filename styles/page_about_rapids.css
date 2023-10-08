@@ -51,8 +51,8 @@ body{
     color: #141E46;
     text-decoration: none;
 }
-.book:hover , .join:hover{
-    background-color: #CD5C08;
+.book:hover , .Join:hover{
+    background-color: aqua;
     color: #BB2525;
 }
 .msg{
