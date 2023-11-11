@@ -222,7 +222,7 @@ main section img {
 }
 
 #content-img{
-    background-color: #6A9C89;
+    background-color: #C1D8C3;
     display: grid;
     grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding-top: 100px;
@@ -263,11 +263,17 @@ main section img {
 #idaho{
     grid-column:6/10;
     grid-row:2/4;
+    text-align: left;
+    padding: 15px;
+    color: #141E46;
 
 }
 #utah{
     grid-column: 2/6;
     grid-row: 6/8;
+    text-align: left;
+    padding: 15px;
+    color: #141E46;
 }
 #river-utah{
     grid-column: 5/10;
@@ -285,6 +291,9 @@ main section img {
     grid-column: 6/10;
     grid-row: 10/12;
     margin-top: 40px;
+    text-align: left;
+    padding: 15px;
+    color: #141E46;
 }
 
 @media screen and (max-width: 900px) {
